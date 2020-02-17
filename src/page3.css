@@ -1,0 +1,44 @@
+.left-ship {
+    height: 24vh;
+    position: absolute;
+    left: calc(50vw);
+    top: 10vh;
+    transform: translate(-20vh);
+    transition: 2s;
+}
+
+.right-ship {
+    height: 24vh;
+    position: absolute;
+    left: calc(50vw);
+    top: 2vh;
+    transition: 2s;
+}
+
+.product-manager {
+    height: 4.7vh;
+    position: absolute;
+    left: calc(50vw - 16.5vh);
+    top: 34vh;
+}
+
+.pm-script {
+    height: 2vh;
+    position: absolute;
+    left: calc(50vw - 16vh);
+    top: 41vh;
+}
+
+.axure {
+    height: 2.2vh;
+    position: absolute;
+    left: calc(50vw - 20.2vh);
+    top: 74vh;
+}
+
+.x-mind {
+    height: 2.5vh;
+    position: absolute;
+    left: calc(50vw + 10vh);
+    top: 65vh;
+}

@@ -1,0 +1,78 @@
+.ship-nomove {
+    height: 21vh;
+    position: absolute;
+    left: calc(50vw - 15.5vh);
+    top: 0vh;
+    z-index: 1;
+}
+
+.designer {
+    height: 5vh;
+    position: absolute;
+    left: calc(50vw - 17.5vh);
+    top: 41vh;
+}
+
+.ds-script {
+    height: 2.2vh;
+    position: absolute;
+    left: calc(50vw - 17vh);
+    top: 48vh;
+}
+
+.flash {
+    height: 30vh;
+    position: absolute;
+    left: calc(50vw - 19.2vh);
+    top: 17vh;
+    z-index: 0;
+}
+
+.monster {
+    height: 25vh;
+    position: absolute;
+    left: calc(50vw - 10vh);
+    top: 59vh;
+}
+
+.ai {
+    height: 5vh;
+    position: absolute;
+    left: calc(50vw + 10vh);
+    top: 56vh;
+}
+
+.ae {
+    height: 6.2vh;
+    position: absolute;
+    left: calc(50vw + 12vh);
+    top: 74vh;
+}
+
+.ps {
+    height: 7.2vh;
+    position: absolute;
+    left: calc(50vw - 18.2vh);
+    top: 66vh;
+}
+
+.word1 {
+    height: 2vh;
+    position: absolute;
+    left: calc(50vw - 21vh);
+    top: 60vh;
+}
+
+.word2 {
+    height: 3vh;
+    position: absolute;
+    left: calc(50vw - 21vh);
+    top: 77vh;
+}
+
+.word3 {
+    height: 2vh;
+    position: absolute;
+    left: calc(50vw + 15vh);
+    top: 68vh;
+}

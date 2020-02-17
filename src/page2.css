@@ -1,0 +1,97 @@
+.dot1 {
+    height: 1.5vh;
+    position: absolute;
+    left: calc(50vw - 6.5vh);
+    top: 27vh;
+}
+
+.dot2 {
+    height: 2.2vh;
+    position: absolute;
+    left: calc(50vw - 7.5vh);
+    top: 34vh;
+}
+
+.dot3 {
+    height: 2.2vh;
+    position: absolute;
+    left: calc(50vw - 4vh);
+    top: 41vh;
+}
+
+.dot4 {
+    height: 2.2vh;
+    position: absolute;
+    left: calc(50vw + 1.8vh);
+    top: 48vh;
+}
+
+.dot5 {
+    height: 1.5vh;
+    position: absolute;
+    left: calc(50vw + 4vh);
+    top: 57vh;
+}
+
+.dot6 {
+    height: 2.2vh;
+    position: absolute;
+    left: calc(50vw + 4vh);
+    top: 64vh;
+}
+
+.dot7 {
+    height: 2.2vh;
+    position: absolute;
+    left: calc(50vw + 4.8vh);
+    top: 72vh;
+}
+
+.y2000 {
+    height: 2vh;
+    position: absolute;
+    left: calc(50vw - 3.5vh);
+    top: 27vh;
+}
+
+.y2004 {
+    height: 2vh;
+    position: absolute;
+    left: calc(50vw - 4.5vh);
+    top: 34vh;
+}
+
+.y2005 {
+    height: 4.3vh;
+    position: absolute;
+    left: calc(50vw - 22vh);
+    top: 41vh;
+}
+
+.y2013 {
+    height: 4.3vh;
+    position: absolute;
+    left: calc(50vw + 4.8vh);
+    top: 47vh;
+}
+
+.y2014 {
+    height: 2vh;
+    position: absolute;
+    left: calc(50vw - 16vh);
+    top: 56.8vh;
+}
+
+.y2015 {
+    height: 2vh;
+    position: absolute;
+    left: calc(50vw - 23vh);
+    top: 64vh;
+}
+
+.y2016 {
+    height: 4.2vh;
+    position: absolute;
+    left: calc(50vw + 8vh);
+    top: 71vh;
+}

@@ -1,0 +1,41 @@
+.twinkle-star {
+    height: 3.5vh;
+    position: absolute;
+    left: calc(50vw - 15vh);
+    top: 57vh;
+    transition: 1s;
+}
+
+.twinkle-star-black {
+    height: 3.5vh;
+    position: absolute;
+    left: calc(50vw - 15vh);
+    top: 57vh;
+    transform: scale(0.3);
+    transition: 1s;
+}
+
+.small-man {
+    height: 12vh;
+    position: absolute;
+    left: calc(50vw + 8vh);
+    top: 57vh;
+    transform: scale(0.7);
+    transition: 1.5s;
+}
+
+.big-man {
+    height: 12vh;
+    position: absolute;
+    left: calc(50vw + 8vh);
+    top: 57vh;
+    transition: 1.5s;
+}
+
+.rotate-man {
+    height: 5vh;
+    position: absolute;
+    left: calc(50vw + 13.5vh);
+    top: 5vh;
+    transition: 1s;
+}

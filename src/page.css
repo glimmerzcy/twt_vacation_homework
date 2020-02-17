@@ -1,0 +1,13 @@
+.page {
+    height: 100vh;
+    text-align: center;
+    /* background-color: black; */
+    /* width: 500px; */
+    margin: 0 auto;
+    /* width: 56.33802vh; */
+}
+
+.background {
+    height: 100%;
+    z-index: -1;
+}

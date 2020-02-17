@@ -1,0 +1,70 @@
+.programmer {
+    height: 4.5vh;
+    position: absolute;
+    left: calc(50vw - 18vh);
+    top: 31vh;
+}
+
+.word4 {
+    height: 2vh;
+    position: absolute;
+    left: calc(50vw - 17.5vh);
+    top: 38vh;
+}
+
+.word5 {
+    height: 2.2vh;
+    position: absolute;
+    left: calc(50vw - 17.5vh);
+    top: 41vh;
+}
+
+.monster2 {
+    height: 27vh;
+    position: absolute;
+    left: calc(50vw - 8.5vh);
+    top: 57vh;
+}
+
+.cshape {
+    height: 3vh;
+    position: absolute;
+    left: calc(50vw + 15vh);
+    top: 72vh;
+}
+
+.cpp {
+    height: 3vh;
+    position: absolute;
+    left: calc(50vw - 20.2vh);
+    top: 64vh;
+}
+
+.html {
+    height: 2.5vh;
+    position: absolute;
+    left: calc(50vw + 7vh);
+    top: 51vh;
+}
+
+.java {
+    height: 2.5vh;
+    position: absolute;
+    left: calc(50vw + 16vh);
+    top: 62vh;
+}
+
+.php {
+    height: 3vh;
+    position: absolute;
+    left: calc(50vw - 18vh);
+    top: 72vh;
+}
+
+.vb {
+    height: 3vh;
+    position: absolute;
+    left: calc(50vw - 15vh);
+    top: 54vh;
+}
+
